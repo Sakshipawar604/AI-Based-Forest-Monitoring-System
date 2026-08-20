@@ -1,10 +1,3 @@
-AI-Based-Forest-Monitoring-System/
-│
-├── docs/
-│   ├── research-paper.pdf
-│   ├── presentation.pptx
-│
-├── README.md
 # AI-Based Forest Monitoring System
 
 An AI-based system for monitoring and analyzing forest areas using satellite imagery and computer vision techniques.
