@@ -22,4 +22,4 @@ The `dataset/` folder contains satellite images used for forest monitoring and i
 - PyTorch
 - YOLO
 - Computer Vision
-- Satellite Image Analysis
+- Satellite Image Analysis.
