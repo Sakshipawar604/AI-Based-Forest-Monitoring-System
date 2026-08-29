@@ -76,7 +76,7 @@ The main objective of this project is to use **AI and satellite imagery** to sup
 
 ## 👩‍💻 Developed By
 
-**Sakshi Pawar **
+**Sakshi Pawar **.
 **Aarti Lugade **
 **Shravani Waghwale **
 **Utkarsh Pol **
