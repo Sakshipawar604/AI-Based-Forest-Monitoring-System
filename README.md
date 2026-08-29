@@ -82,4 +82,4 @@ The main objective of this project is to use **AI and satellite imagery** to sup
 **Utkarsh Pol **
 B.Tech – Computer Science & Artificial Intelligence
 
-B.Tech – Computer Science & Artificial Intelligence
+B.Tech – Computer Science & Artificial Intelligence.
